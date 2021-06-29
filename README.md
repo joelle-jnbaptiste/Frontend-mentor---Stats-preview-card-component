@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:](https://github.com/joelle-jnbaptiste/Frontend-mentor---Stats-preview-card-component)
-- [Live Site URL :](https://joelle-jnbaptiste.github.io/Frontend-mentor---Stats-preview-card-component/)
+- [Solution URL](https://github.com/joelle-jnbaptiste/Frontend-mentor---Stats-preview-card-component)
+- [Live Site URL](https://joelle-jnbaptiste.github.io/Frontend-mentor---Stats-preview-card-component/)
 
 
 ### Built with
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/joelle-jnbaptiste)
+- Frontend Mentor - [@joelle-jnbaptiste](https://www.frontendmentor.io/profile/joelle-jnbaptiste)
 
